@@ -11,3 +11,4 @@ tags: [Github, website,]
 3. I renamed the cloned repository to loree1.github.io
 4. I edited the files as described in README.md
 5. Now I'm writing my first post by following the advice that I got from the README file
+   
